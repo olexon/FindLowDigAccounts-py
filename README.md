@@ -1,3 +1,3 @@
 # FindLowDigAccounts-py
-lowdig remake in python!
-\nwork progress: 5% lmao
+##lowdig remake in python!
+work progress: 5% lmao
