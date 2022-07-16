@@ -1,3 +1,4 @@
 # FindLowDigAccounts-py
-## lowdig remake in python!
-work progress: 5% lmao
+Ezzpify/FindLowDigAccounts but worse and made in python!
+[![GitHub Release]
+
