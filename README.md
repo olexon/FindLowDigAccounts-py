@@ -14,7 +14,7 @@ what is broken / doesnt exist:
 
 ![Too bad you cant see that shit in action! (jk its garbage)](https://cdn.discordapp.com/attachments/789473358923825172/997698282048458773/unknown.png)
 
-i dont even bother with making a gif out of this vuz its sooo sloooooooooooooooow
+i dont even bother with making a gif out of this cuz its sooo sloooooooooooooooow
 
 log file example:
 ```
